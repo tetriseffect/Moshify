@@ -6,5 +6,5 @@ Home page of a fictional cloud hosting service.  Animate on Scroll JS library is
 
 The focus of this project was twofold: 
 
--Gain experience taking a design mockup and building it using HTML/CSS   
+-Building a website from a design mockup.  
 -Implementing best practices for accessibility on the web (contrast ratios, screen reader compatibility, etc). 
